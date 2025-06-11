@@ -1,3 +1,4 @@
-# LeetCodeDailyChallenges
+# MINI SCRIPTS
 
-Aqui teneis los codigo que he ido haciendo para completar los retos diarios de la web de [LeetCode](https://leetcode.com/problemset/).
+Aqui teneis los codigos que he ido haciendo para resober distintos problemas que encuentro por internet o cosas que me han parecido curiosas.
+:)
